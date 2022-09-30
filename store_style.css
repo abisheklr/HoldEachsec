@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Damion&family=Pacifico&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family: arial;
+}
+.main{  
+    margin: 2%;
+}
+   
+.card{
+    width: 20%;
+    display: inline-block;
+    box-shadow: 2px 2px 20px white;
+    border-radius: 5px; 
+    margin: 2%;
+    background: white;   
+}   
+.image img{
+    width: 100%;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+}
+
+.title{
+    background: white;
+    text-align: center;
+    padding: 10px;
+}
+
+h1{
+    font-size: 20px;
+}
+
+.des{
+    padding: 3px;
+    text-align: center;
+
+    padding-top: 10px;
+        border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+button{
+    margin-top: 40px;
+    margin-bottom: 10px;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding:10px;
+}
+button:hover{
+    background-color: black;
+    color: white;
+    transition: .5s;
+    cursor: pointer;
+}
+.toptitle{
+    padding-left: 35%;   
+    background: white;
+    color: yellow;
+    font-family: 'Pacifico', cursive;
+    font-size: 40px;
+    text-align: left;
+    text-shadow: 3px 2px 7px #000;
+}
+
+.topquote{
+    background: black;
+    color: white;
+    font-family: 'Damion', cursive;
+    font-family: 'Pacifico', cursive;
+    text-shadow: 3px 2px 7px #fff;
+    font-size: 60px;
+}
+
+.backgd{
+    background: black;
+}
+
+
+td , th{
+    padding: 15px 20px;
+    text-align: center;
+}
+th{
+    background-color: #ba68c8;
+    color: #fafafa;
+    font-family: 'Open Sans',Sans-serif;
+    font-weight: 200;
+    text-transform: uppercase;
+   
+   }
+tr{
+    width: 100%;
+    background-color: #fafafa;
+    font-family: 'Montserrat', sans-serif;
+   }
+tr:nth-child(even){
+    background-color: #eeeeee;
+    font-weight: 200;
+   }

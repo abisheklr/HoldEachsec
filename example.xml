@@ -1,0 +1,56 @@
+<bookstore>
+<book category="python">
+<title lang="en">Python Introduction</title>
+<author>Giada De Laurentiis</author>
+<year>2005</year>
+<price>30.00</price>
+<title lang="en">Data structures using python</title>
+<author>Robert j Downey</author>
+<year>2012</year>
+<price>50.00</price>
+<title lang="en">Automate Boring stuff using python</title>
+<author>Wellington B</author>
+<year>2007</year>
+<price>70.00</price>7
+<title lang="en">Python- Complete Edition (2nd Edition)</title>
+<author>Ryan Renolds</author>
+<year>2012</year>
+<price>120.00</price>
+</book>
+<book category="Java">
+<title lang="en"> Introducing Java 8</title>
+<author>Raoul-Gabriel Urma</author>
+<year>2007</year>
+<price>39.99</price>
+<title lang="en">  Object-Oriented vs. Functional Programming</title>
+<author>Richard Warburton</author>
+<year>2010</year>
+<price>49.50</price>
+<title lang="en"> Java: The Legend</title>
+<author>Benjamin Evans</author>
+<year>2012</year>
+<price>69.90</price>
+<title lang="en"> Modern Java EE Design Patterns</title>
+<author>Markus Eisele</author>
+<year>2017</year>
+<price>129.99</price>
+</book>
+<book category="Web Development">
+<title lang="en">Learning JavaScript Design Patterns</title>
+<author>Addy Osmani</author>
+<year>2013</year>
+<price>49.99</price>
+<title lang="en">Advanced JavaScript Essentials</title>
+<author>o' Reilly</author>
+<year>2010</year>
+<price>149.99</price>
+<title lang="en">Introduction to PHP by Principal Controller of Defence Account</title>
+<author>Principal Controller of Defence Accounts</author>
+<year>2004</year>
+<price>69.99</price>
+<title lang="en">Creating dynamic Web sites with PHP and MySQL (PDF 20P)</title>
+<author>Ashraful Anam</author>
+<year>2010</year>
+<price>59.99</price>
+</book>
+</bookstore>
